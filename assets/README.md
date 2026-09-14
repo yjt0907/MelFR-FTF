@@ -1,7 +1,5 @@
 # Assets
 
-Place the final MelFR-FTF architecture figure at:
+The MelFR-FTF architecture figure is provided at:
 
 `assets/melfr_ftf_overview.png`
-
-The initial project-page commit intentionally does not include the architecture image.

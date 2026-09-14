@@ -20,10 +20,9 @@ The model uses causal neural processing with 16-ms STFT look-ahead. Mel/full-res
 
 ## Architecture
 
-The final architecture figure will be added at `assets/melfr_ftf_overview.png`.
+The architecture figure is provided below.
 
-<!-- Add final architecture figure as assets/melfr_ftf_overview.png -->
-<!-- ![MelFR-FTF architecture](assets/melfr_ftf_overview.png) -->
+![MelFR-FTF architecture](assets/melfr_ftf_overview.png)
 
 ## Results
 
