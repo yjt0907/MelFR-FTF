@@ -2,7 +2,7 @@
 
 **Complementary Mel and Full-Resolution Modeling for Lightweight Causal Speech Enhancement**
 
-> **Status:** Submitted to ICASSP 2027. Source code and pretrained models will be released only if the paper is accepted.
+> **Status:** Submitted to ICASSP 2027. If accepted, we plan to release the core MelFR-FTF block implementations, configuration files, and pretrained inference models, including an ONNX export.
 
 MelFR-FTF is a lightweight single-channel speech enhancement model. This repository provides the project overview and evaluation results.
 
